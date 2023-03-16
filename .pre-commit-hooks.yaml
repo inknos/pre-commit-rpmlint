@@ -1,0 +1,7 @@
+- id: rpmlint
+  name: rpmlint
+  description: ''
+  entry: rpmlint
+  language: python
+  types: [file]
+  files: \.spec$
